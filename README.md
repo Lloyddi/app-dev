@@ -3,7 +3,7 @@ My first repository
 
 ## F.R.I.E.N.D.S
 
-I've watched the series ** SUITS **
+I've watched the series *SUITS*
 
 | Movies      | Series      | Anime       |
 | :---------: | :---------: | :---------: |
